@@ -33,12 +33,12 @@ a configurable maximum hold period.
 
 | Window | OOS Sharpe | OOS CAGR | Trades |
 |---|---|---|---|
-| 2018-2019 → 2020 | 1.14 | -9.3% | 74 |
-| 2019-2020 → 2021 | 1.07 | -0.7% | 61 |
-| 2020-2021 → 2022 | 0.51 | -0.8% | 12 |
-| 2021-2022 → 2023 | 1.11 | +54.4% | 53 |
-| 2022-2023 → 2024 | 0.98 | -4.4% | 63 |
-| **Average OOS** | **0.96** | **+7.8%** | **53** |
+| 2018-2019 → 2020 | 1.12 | +19.0% | 72 |
+| 2019-2020 → 2021 | 1.10 | +0.6% | 59 |
+| 2020-2021 → 2022 | 0.63 | -5.1% | 24 |
+| 2021-2022 → 2023 | 1.04 | +60.1% | 38 |
+| 2022-2023 → 2024 | 1.08 | +6.8% | 68 |
+| **Average OOS** | **0.99** | **+16.3%** | **52** |
 
 **5/5 walk-forward windows show positive out-of-sample Sharpe** — the strongest available
 evidence that DriftFire is not a fluke of the specific 2018-2024 test period.
