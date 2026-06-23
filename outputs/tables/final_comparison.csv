@@ -1,0 +1,7 @@
+config,trades,sharpe,cagr_pct,max_dd_pct,hit_rate_pct,profit_factor
+original,4,0.2,1.3,-19.2,75.0,50.04
+relaxed_v2,164,0.98,2.4,-55.6,40.2,0.76
+v2_regime>=3,151,1.0,1.0,-58.1,36.4,0.66
+v2_regime>=3+SPY,151,1.0,0.6,-58.1,36.4,0.66
+optuna_optimized,117,0.79,9.4,-44.8,32.5,1.33
+walk_forward_avg_oos,52,0.99,16.3,,40.0,

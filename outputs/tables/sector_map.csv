@@ -1,0 +1,200 @@
+ticker,gics_sector,sector_etf
+A,Healthcare,XLV
+AAL,Industrials,XLI
+AAPL,Technology,XLK
+ABBV,Healthcare,XLV
+ABNB,Consumer Cyclical,XLY
+ABT,Healthcare,XLV
+ACGL,Financial Services,XLF
+ACM,Industrials,XLI
+ACN,Technology,XLK
+ADBE,Technology,XLK
+ADI,Technology,XLK
+ADM,Consumer Defensive,XLP
+ADP,Technology,XLK
+ADSK,Technology,XLK
+AEE,Utilities,XLU
+AEP,Utilities,XLU
+AES,Utilities,XLU
+AFL,Financial Services,XLF
+AIG,Financial Services,XLF
+AIZ,Financial Services,XLF
+AJG,Financial Services,XLF
+AKAM,Technology,XLK
+ALB,Basic Materials,XLB
+ALGN,Healthcare,XLV
+ALL,Financial Services,XLF
+ALLE,Industrials,XLI
+AMAT,Technology,XLK
+AMCR,Consumer Cyclical,XLY
+AMD,Technology,XLK
+AME,Industrials,XLI
+AMGN,Healthcare,XLV
+AMP,Financial Services,XLF
+AMT,Real Estate,XLRE
+AMZN,Consumer Cyclical,XLY
+ANET,Technology,XLK
+AON,Financial Services,XLF
+AOS,Industrials,XLI
+APA,Energy,XLE
+APD,Basic Materials,XLB
+APH,Technology,XLK
+APTV,Consumer Cyclical,XLY
+ARE,Real Estate,XLRE
+ATO,Utilities,XLU
+AVGO,Technology,XLK
+AVY,Consumer Cyclical,XLY
+AWK,Utilities,XLU
+AXP,Financial Services,XLF
+AZO,Consumer Cyclical,XLY
+BA,Industrials,XLI
+BAC,Financial Services,XLF
+BAX,Healthcare,XLV
+BBWI,Consumer Cyclical,XLY
+BBY,Consumer Cyclical,XLY
+BDX,Healthcare,XLV
+BEN,Financial Services,XLF
+BF-B,Consumer Defensive,XLP
+BG,Consumer Defensive,XLP
+BIIB,Healthcare,XLV
+BIO,Healthcare,XLV
+BK,Financial Services,XLF
+BKNG,Consumer Cyclical,XLY
+BKR,Energy,XLE
+BLK,Financial Services,XLF
+BMY,Healthcare,XLV
+BR,Technology,XLK
+BRK-B,Financial Services,XLF
+BRO,Financial Services,XLF
+BSX,Healthcare,XLV
+BWA,Consumer Cyclical,XLY
+BXP,Real Estate,XLRE
+C,Financial Services,XLF
+CAG,Consumer Defensive,XLP
+CAH,Healthcare,XLV
+CARR,Industrials,XLI
+CAT,Industrials,XLI
+CB,Financial Services,XLF
+CBOE,Financial Services,XLF
+CBRE,Real Estate,XLRE
+CCI,Real Estate,XLRE
+CCL,Consumer Cyclical,XLY
+CDNS,Technology,XLK
+CDW,Technology,XLK
+CE,Basic Materials,XLB
+CEG,Utilities,XLU
+CF,Basic Materials,XLB
+CFG,Financial Services,XLF
+CHD,Consumer Defensive,XLP
+CHRW,Industrials,XLI
+CHTR,Communication Services,XLC
+CI,Healthcare,XLV
+CINF,Financial Services,XLF
+CL,Consumer Defensive,XLP
+CLX,Consumer Defensive,XLP
+CMA,Unknown,UNKNOWN
+CMCSA,Communication Services,XLC
+CME,Financial Services,XLF
+CMG,Consumer Cyclical,XLY
+CMI,Industrials,XLI
+CMS,Utilities,XLU
+CNC,Healthcare,XLV
+CNP,Utilities,XLU
+COF,Financial Services,XLF
+COO,Healthcare,XLV
+COP,Energy,XLE
+COST,Consumer Defensive,XLP
+CPB,Consumer Defensive,XLP
+CPRT,Industrials,XLI
+CPT,Real Estate,XLRE
+CRL,Healthcare,XLV
+CRM,Technology,XLK
+CSCO,Technology,XLK
+CSGP,Real Estate,XLRE
+CSX,Industrials,XLI
+CTAS,Industrials,XLI
+CTRA,Energy,XLE
+CTSH,Technology,XLK
+CTVA,Basic Materials,XLB
+CVS,Healthcare,XLV
+CVX,Energy,XLE
+CZR,Consumer Cyclical,XLY
+D,Utilities,XLU
+DAL,Industrials,XLI
+DD,Basic Materials,XLB
+DE,Industrials,XLI
+DECK,Consumer Cyclical,XLY
+DG,Consumer Defensive,XLP
+DGX,Healthcare,XLV
+DHI,Consumer Cyclical,XLY
+DHR,Healthcare,XLV
+DIS,Communication Services,XLC
+DLR,Real Estate,XLRE
+DLTR,Consumer Defensive,XLP
+DOV,Industrials,XLI
+DOW,Basic Materials,XLB
+DPZ,Consumer Cyclical,XLY
+DRI,Consumer Cyclical,XLY
+DTE,Utilities,XLU
+DUK,Utilities,XLU
+DVA,Healthcare,XLV
+DVN,Energy,XLE
+DXC,Technology,XLK
+DXCM,Healthcare,XLV
+EA,Communication Services,XLC
+EBAY,Consumer Cyclical,XLY
+ECL,Basic Materials,XLB
+ED,Utilities,XLU
+EFX,Industrials,XLI
+EIX,Utilities,XLU
+EL,Consumer Defensive,XLP
+EMN,Basic Materials,XLB
+EMR,Industrials,XLI
+ENPH,Technology,XLK
+EOG,Energy,XLE
+EPAM,Technology,XLK
+EQIX,Real Estate,XLRE
+EQR,Real Estate,XLRE
+EQT,Energy,XLE
+ES,Utilities,XLU
+ESS,Real Estate,XLRE
+ETN,Industrials,XLI
+ETR,Utilities,XLU
+ETSY,Consumer Cyclical,XLY
+EVRG,Utilities,XLU
+EW,Healthcare,XLV
+EXC,Utilities,XLU
+EXPD,Industrials,XLI
+EXPE,Consumer Cyclical,XLY
+EXR,Real Estate,XLRE
+F,Consumer Cyclical,XLY
+FANG,Energy,XLE
+FAST,Industrials,XLI
+FCX,Basic Materials,XLB
+FDS,Financial Services,XLF
+FDX,Industrials,XLI
+FE,Utilities,XLU
+FFIV,Technology,XLK
+FIS,Technology,XLK
+FISV,Unknown,UNKNOWN
+FITB,Financial Services,XLF
+FMC,Basic Materials,XLB
+FOX,Communication Services,XLC
+FOXA,Communication Services,XLC
+FRT,Real Estate,XLRE
+FSLR,Technology,XLK
+FTNT,Technology,XLK
+FTV,Technology,XLK
+GD,Industrials,XLI
+GE,Industrials,XLI
+GILD,Healthcare,XLV
+GIS,Consumer Defensive,XLP
+GL,Financial Services,XLF
+GLW,Technology,XLK
+GM,Consumer Cyclical,XLY
+GNRC,Industrials,XLI
+GOOG,Communication Services,XLC
+GOOGL,Communication Services,XLC
+GPC,Consumer Cyclical,XLY
+GPN,Industrials,XLI
+GRMN,Technology,XLK
